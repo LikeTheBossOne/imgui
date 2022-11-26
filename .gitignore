@@ -56,3 +56,4 @@ examples/example_sdl_opengl3/example_sdl_opengl3
 # Directories
 bin/
 bin-int/
+Debug/
